@@ -1,7 +1,11 @@
 # Building an App with Dotnet Core and React
 ## Technologies
+#### Server
 - ASP.NET Core 3.1.x
 - Entity Framework Core 3.1.x
+#### Client
+- axios
+- Semantic UI React
 
 ## Clean Architecture
 
